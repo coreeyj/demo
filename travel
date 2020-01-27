@@ -1,0 +1,110 @@
+[
+    {
+
+        "id": 1001,
+        "name": "Los Angeles",
+        "city": "Los Angeles",
+        "state": "California",
+        "imageName": "losAngeles"
+
+    },
+    {
+        "id": 1002,
+        "name": "New York City",
+        "city": "New York City",
+        "state": "New York",
+        "imageName": "newYork"
+    },
+    {
+        "id": 1003,
+        "name": "San Fransisco",
+        "city": "San Fransisco",
+        "state": "California",
+        "imageName": "sanFransisco"
+    },
+    {
+        "id": 1004,
+        "name": "Las Vegas",
+        "city": "Las Vegas",
+        "state": "Nevada",
+        "imageName": "lasVegas"
+    },
+    {
+        "id": 1005,
+        "name": "New Orleans",
+        "city": "New Orleans",
+        "state": "Louisiana",
+        "imageName": "newOrleans"
+    },
+    {
+        "id": 1006,
+        "name": "Washington D.C.",
+        "city": "Washington D.C.",
+        "state": "District of Columbia",
+        "imageName": "washingtonDC"
+    },
+    {
+        "id": 1007,
+        "name": "Chicago",
+        "city": "Chicago",
+        "state": "Illinois",
+        "imageName": "chicago"
+    },
+    {
+        "id": 1008,
+        "name": "Miami",
+        "city": "Miami",
+        "state": "Florida",
+        "imageName": "miami"
+    },
+    {
+        "id": 1009,
+        "name": "Boston",
+        "city": "Boston",
+        "state": "Massachusetts",
+        "imageName": "boston"
+    },
+    {
+        "id": 1010,
+        "name": "Houston",
+        "city": "Houston",
+        "state": "Texas",
+        "imageName": "houston"
+    },
+    {
+        "id": 1011,
+        "name": "Seattle",
+        "city": "Seattle",
+        "state": "Washington",
+        "imageName": "seattle"
+    },
+    {
+        "id": 1012,
+        "name": "Nashville",
+        "city": "Nashville",
+        "state": "Tennessee",
+        "imageName": "nashville"
+    },
+    {
+        "id": 1013,
+        "name": "Detroit",
+        "city": "Detroit",
+        "state": "Michigan",
+        "imageName": "detroit"
+    },
+    {
+        "id": 1014,
+        "name": "Philadelphia",
+        "city": "Philadelphia",
+        "state": "Pennsylvania",
+        "imageName": "philadelphia"
+    },
+    {
+        "id": 1015,
+        "name": "Atlanta",
+        "city": "Atlanta",
+        "state": "Georgia",
+        "imageName": "atlanta"
+    }
+    
+]
